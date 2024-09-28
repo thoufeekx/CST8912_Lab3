@@ -55,10 +55,10 @@ Compose the appropriate networking, compute, storage, and database services to m
 *Figure 5: Shows the overview of the Storage account created for this project.*
 
 
-![Step 3 - Creating a storage container](.Images/5.png "preview storage container")
+![Step 3 - Creating a storage container](./Images/5.png "preview storage container")
 *Figure 6: Shows the overview of labtestcontainer8912 created for the project.*
 
-![Step 3 - Folder and lab file](.Images/6.png "uploaded file and folder inside container")
+![Step 3 - Folder and lab file](./Images/6.png "uploaded file and folder inside container")
 *Figure 7: Shows the uploaded file/folder in the container.*
 
 
